@@ -1,5 +1,5 @@
 
-# Project Title
+#  GlumSak-Plugin-Template
 
 Template Project to create GlumSak Pugins 
 
